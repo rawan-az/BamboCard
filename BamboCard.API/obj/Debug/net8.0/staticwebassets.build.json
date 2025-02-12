@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "4yb6ec9uNWGXp17mGifu2UnhP1Lqtzwm7vmSZ3AX89Y=",
+  "Source": "BamboCard.API",
+  "BasePath": "_content/BamboCard.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

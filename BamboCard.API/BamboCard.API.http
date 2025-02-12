@@ -1,0 +1,6 @@
+@BamboCard.API_HostAddress = http://localhost:5223
+
+GET {{BamboCard.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

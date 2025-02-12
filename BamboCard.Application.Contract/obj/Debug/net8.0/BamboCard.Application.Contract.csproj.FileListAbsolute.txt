@@ -1,0 +1,15 @@
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\bin\Debug\net8.0\BamboCard.Application.Contract.deps.json
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\bin\Debug\net8.0\BamboCard.Application.Contract.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\bin\Debug\net8.0\BamboCard.Application.Contract.pdb
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\bin\Debug\net8.0\BamboCard.EF.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\bin\Debug\net8.0\BamboCard.EF.pdb
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.csproj.AssemblyReference.cache
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.AssemblyInfoInputs.cache
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.AssemblyInfo.cs
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCar.1AD998A8.Up2Date
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\refint\BamboCard.Application.Contract.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\BamboCard.Application.Contract.pdb
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.Application.Contract\obj\Debug\net8.0\ref\BamboCard.Application.Contract.dll

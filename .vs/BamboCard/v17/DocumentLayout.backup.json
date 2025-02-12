@@ -1,0 +1,223 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.api\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|solutionrelative:bambocard.api\\controllers\\exchangeratecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|solutionrelative:bambocard.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CF9E43-3513-463F-9B60-FE3E652B558C}|BamboCard.Application.Contract\\BamboCard.Application.Contract.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.application.contract\\iexchangerateservice - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CF9E43-3513-463F-9B60-FE3E652B558C}|BamboCard.Application.Contract\\BamboCard.Application.Contract.csproj|solutionrelative:bambocard.application.contract\\iexchangerateservice - copy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CF9E43-3513-463F-9B60-FE3E652B558C}|BamboCard.Application.Contract\\BamboCard.Application.Contract.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.application.contract\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CF9E43-3513-463F-9B60-FE3E652B558C}|BamboCard.Application.Contract\\BamboCard.Application.Contract.csproj|solutionrelative:bambocard.application.contract\\iexchangerateservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D1DFB-FFED-454D-BD3A-669438CB7C13}|BamboCard.Application\\BamboCard.Application.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.application\\frankfurtercurrencyprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399D1DFB-FFED-454D-BD3A-669438CB7C13}|BamboCard.Application\\BamboCard.Application.csproj|solutionrelative:bambocard.application\\frankfurtercurrencyprovider .cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{399D1DFB-FFED-454D-BD3A-669438CB7C13}|BamboCard.Application\\BamboCard.Application.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.application\\openexchangeratesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{399D1DFB-FFED-454D-BD3A-669438CB7C13}|BamboCard.Application\\BamboCard.Application.csproj|solutionrelative:bambocard.application\\openexchangeratesprovider.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B8CF9E43-3513-463F-9B60-FE3E652B558C}|BamboCard.Application.Contract\\BamboCard.Application.Contract.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.application.contract\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B8CF9E43-3513-463F-9B60-FE3E652B558C}|BamboCard.Application.Contract\\BamboCard.Application.Contract.csproj|solutionrelative:bambocard.application.contract\\paginatedresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|solutionrelative:bambocard.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BF3ED-83C5-4527-AA93-707D58F4E126}|BamboCard.EF\\BamboCard.EF.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BF3ED-83C5-4527-AA93-707D58F4E126}|BamboCard.EF\\BamboCard.EF.csproj|solutionrelative:bambocard.ef\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{816BF3ED-83C5-4527-AA93-707D58F4E126}|BamboCard.EF\\BamboCard.EF.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.ef\\model\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{816BF3ED-83C5-4527-AA93-707D58F4E126}|BamboCard.EF\\BamboCard.EF.csproj|solutionrelative:bambocard.ef\\model\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|c:\\users\\rawan\\source\\repos\\bambocard\\bambocard.api\\model\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B8217AE-C0B2-4C7C-AB5E-6C99944AED2B}|BamboCard.API\\BamboCard.API.csproj|solutionrelative:bambocard.api\\model\\exchangerate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d84ee353-0bef-5a41-a649-8f89aca5d84d}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IExchangeRateService - Copy.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application.Contract\\IExchangeRateService - Copy.cs",
+              "RelativeDocumentMoniker": "BamboCard.Application.Contract\\IExchangeRateService - Copy.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application.Contract\\IExchangeRateService - Copy.cs",
+              "RelativeToolTip": "BamboCard.Application.Contract\\IExchangeRateService - Copy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:13:59.969Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OpenExchangeRatesProvider.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application\\OpenExchangeRatesProvider.cs",
+              "RelativeDocumentMoniker": "BamboCard.Application\\OpenExchangeRatesProvider.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application\\OpenExchangeRatesProvider.cs",
+              "RelativeToolTip": "BamboCard.Application\\OpenExchangeRatesProvider.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T14:08:48.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PaginatedResponse.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application.Contract\\PaginatedResponse.cs",
+              "RelativeDocumentMoniker": "BamboCard.Application.Contract\\PaginatedResponse.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application.Contract\\PaginatedResponse.cs",
+              "RelativeToolTip": "BamboCard.Application.Contract\\PaginatedResponse.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:54:20.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ExchangeRateController.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\Controllers\\ExchangeRateController.cs",
+              "RelativeDocumentMoniker": "BamboCard.API\\Controllers\\ExchangeRateController.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\Controllers\\ExchangeRateController.cs",
+              "RelativeToolTip": "BamboCard.API\\Controllers\\ExchangeRateController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:23:41.464Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IExchangeRateService.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application.Contract\\IExchangeRateService.cs",
+              "RelativeDocumentMoniker": "BamboCard.Application.Contract\\IExchangeRateService.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application.Contract\\IExchangeRateService.cs",
+              "RelativeToolTip": "BamboCard.Application.Contract\\IExchangeRateService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:20:56.853Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrankfurterCurrencyProvider .cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application\\FrankfurterCurrencyProvider .cs",
+              "RelativeDocumentMoniker": "BamboCard.Application\\FrankfurterCurrencyProvider .cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.Application\\FrankfurterCurrencyProvider .cs",
+              "RelativeToolTip": "BamboCard.Application\\FrankfurterCurrencyProvider .cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:20:12.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\Program.cs",
+              "RelativeDocumentMoniker": "BamboCard.API\\Program.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\Program.cs",
+              "RelativeToolTip": "BamboCard.API\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAuwBwAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:04:33.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\appsettings.json",
+              "RelativeDocumentMoniker": "BamboCard.API\\appsettings.json",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\appsettings.json",
+              "RelativeToolTip": "BamboCard.API\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-11T13:19:12.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.EF\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "BamboCard.EF\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.EF\\ApplicationDbContext.cs",
+              "RelativeToolTip": "BamboCard.EF\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:09:33.426Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.EF\\Model\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "BamboCard.EF\\Model\\ExchangeRate.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.EF\\Model\\ExchangeRate.cs",
+              "RelativeToolTip": "BamboCard.EF\\Model\\ExchangeRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:08:48.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ExchangeRate.cs",
+              "DocumentMoniker": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\Model\\ExchangeRate.cs",
+              "RelativeDocumentMoniker": "BamboCard.API\\Model\\ExchangeRate.cs",
+              "ToolTip": "C:\\Users\\Rawan\\source\\repos\\BamboCard\\BamboCard.API\\Model\\ExchangeRate.cs",
+              "RelativeToolTip": "BamboCard.API\\Model\\ExchangeRate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-11T13:07:43.71Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

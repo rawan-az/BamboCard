@@ -1,0 +1,12 @@
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\bin\Debug\net8.0\BamboCard.EF.deps.json
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\bin\Debug\net8.0\BamboCard.EF.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\bin\Debug\net8.0\BamboCard.EF.pdb
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.csproj.AssemblyReference.cache
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.AssemblyInfoInputs.cache
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.AssemblyInfo.cs
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.csproj.CoreCompileInputs.cache
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\refint\BamboCard.EF.dll
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\BamboCard.EF.pdb
+C:\Users\Rawan\source\repos\BamboCard\BamboCard.EF\obj\Debug\net8.0\ref\BamboCard.EF.dll
